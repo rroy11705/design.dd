@@ -735,6 +735,7 @@ footer .footer-top .links-wrapper .links {
 }
 
 footer .footer-top .links-wrapper .links > div:first-of-type {
+   font-family: 'Space Grotesk', sans-serif;
    font-size: 24px;
    letter-spacing: -0.055em;
    color: #D9D9D9;
@@ -749,7 +750,9 @@ footer .footer-top .links-wrapper .links > div:last-of-type {
 }
 
 footer .footer-top .links-wrapper .links > div:last-of-type a {
+   font-family: 'Space Grotesk', sans-serif;
    font-size: 42px;
+   font-weight: 300;
    letter-spacing: -0.055em;
    color: #626262;
    transition: 'ease-out' 500ms;
@@ -768,6 +771,7 @@ footer .footer-top .accent-wrapper {
 }
 
 footer .footer-top .accent-wrapper > div:first-of-type {
+   font-family: 'Space Grotesk', sans-serif;
    font-size: 42px;
    letter-spacing: -0.055em;
    color: #626262;
@@ -784,6 +788,7 @@ footer .footer-top .accent-wrapper > a {
 }
 
 footer .footer-middle {
+   font-family: 'Space Grotesk', sans-serif;
    display: flex;
    flex-direction: row;
    align-items: flex-start;
@@ -805,6 +810,7 @@ footer .footer-bottom {
 
 
 footer .footer-bottom > div > p {
+   font-family: 'Space Grotesk', sans-serif;
    font-size: 14px;
    letter-spacing: 0;
    color: #D9D9D9;
